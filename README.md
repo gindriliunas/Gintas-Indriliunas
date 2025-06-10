@@ -46,8 +46,8 @@ This repository showcases a collection of real-world lab simulations, technical 
 - Tools: Splunk, Windows, Windows Event Manager
 - Download, Install And Set Up Slunk
 - Simulate Clearing Logs And Failed Log In
-- Here is The Video: [
-](https://www.youtube.com/watch?v=QhVx4lV4IQk)
+- Here is The Video: https://www.youtube.com/watch?v=QhVx4lV4IQk
+  
 ---
 
 ###  [Lab 2: Vulnerability Scanning](./lab-1-vulnerability-scan/README.md)
@@ -57,28 +57,28 @@ This repository showcases a collection of real-world lab simulations, technical 
 
 ---
 
-###  [Lab 2: Network Traffic Analysis](./lab-2-network-analysis/README.md)
+###  [Lab 3: Network Traffic Analysis](./lab-2-network-analysis/README.md)
 - Tools: Tcpdump, Wireshark
 - Identified suspicious outbound traffic from compromised VM
 - Isolated source IP and analyzed potential exfiltration
 
 ---
 
-###  [Lab 3: Web Application Attacks](./lab-3-web-attacks/README.md)
+###  [Lab 4: Web Application Attacks](./lab-3-web-attacks/README.md)
 - Simulated SQL Injection and XSS attacks
 - Exploited and documented web vulnerabilities
 - Proposed secure coding countermeasures
 
 ---
 
-###  [Lab 4: Phishing Incident Response](./lab-4-phishing-response/README.md)
+###  [Lab 5: Phishing Incident Response](./lab-4-phishing-response/README.md)
 - Simulated spear phishing attack and compromise
 - Conducted root cause analysis and traced email headers
 - Created incident summary and remediation report
 
 ---
 
-###  [Jira Simulation: Security Ticket Workflow](./jira-workflow/README.md)
+###  [Lab 6: Jira Simulation: Security Ticket Workflow](./jira-workflow/README.md)
 - Used Jira to model real-world SOC-style ticket tracking
 - Logged simulated incidents and tracked remediation steps
 
