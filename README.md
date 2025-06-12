@@ -51,9 +51,10 @@ This repository showcases a collection of real-world lab simulations, technical 
 ---
 
 ###  [Lab 2: Vulnerability Scanning](./lab-1-vulnerability-scan/README.md)
-- Tools: Nmap, Metasploit
-- Discovered 5 high-risk vulnerabilities across virtual machines
-- Mapped network assets and proposed mitigations
+- Tools: Nessus
+- Discovered 14 high-risk vulnerabilities on one device, remediated 1 that was possible.
+- Mapped network assets and scanned all devices on the network for vulnerabilities
+- Here Is the Video: https://www.youtube.com/watch?v=1aIY9tGRVtM
 
 ---
 
