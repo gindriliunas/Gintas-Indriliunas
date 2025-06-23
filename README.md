@@ -76,6 +76,7 @@ This repository showcases a collection of real-world lab simulations, technical 
 - Simulated spear phishing attack and compromise
 - Conducted root cause analysis and traced email headers
 - Created incident summary and remediation report
+- Here Is The Video: https://youtu.be/7m7Va6tINVE
 
 ---
 
